@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto+Serif:ital,opsz,wght@0,8..144,300;1,8..144,900&family=Roboto:wght@300;500;700&display=swap');
+@import url("../css/components/container.css");
+@import url("../css/components/avatar.css");
+@import url("../css/components/button.css");
+@import url("../css/components/banner.css");
+@import url("../css/components/card.css");
+@import url("../css/components/mediaqueries.css");
+
+*{
+	margin: 0;
+	padding: 0;	
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 15px;
+}
+
+h1, h2, h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+	font-weight: 300;
+}
